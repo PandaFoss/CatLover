@@ -8,6 +8,10 @@
 
 CatLover is a set of sixteen colors divided into four palettes, each with different shades and objectives.
 
+### Peaceful night
+
+> __Peaceful night__ is the set of the darkest colors that make up _CatLover_. It is used as a background for dark themes and is usually used for text in light themes.
+
 Name    | Hex       | RGB           | HSL           | ![Color Picker](assets/eyedropper.png)
 ---     | ---       | ---           | ---           | ---
 `cat0`  | `3b2f42`  | `59 47 66`    | `278° 17% 22%`| ![cat0](assets/cat0.png)
@@ -15,11 +19,19 @@ Name    | Hex       | RGB           | HSL           | ![Color Picker](assets/eye
 `cat2`  | `564360`  | `86 67 96`    | `279° 18% 32%`| ![cat2](assets/cat2.png)
 `cat3`  | `604c6b`  | `96 76 107`   | `279° 17% 36%`| ![cat3](assets/cat3.png)
 
+### Fluffy clarity
+
+> __Fluffy clarity__ is composed of the lighter colors of _CatLover_. That's why it is used for text or as a background color in light themes.
+
 Name    | Hex       | RGB           | HSL           | ![Color Picker](assets/eyedropper.png)
 ---     | ---       | ---           | ---           | ---
 `cat4`  | `e2d8e9`  | `226 216 233` | `275° 28% 88%`| ![cat4](assets/cat4.png)
 `cat5`  | `ebe5f0`  | `235 229 240` | `273° 27% 92%`| ![cat5](assets/cat5.png)
 `cat6`  | `f0ebf4`  | `240 235 244` | `273° 29% 94%`| ![cat6](assets/cat6.png)
+
+### Feline darkness
+
+> __Feline darkness__ has the main colors of _CatLover_. It is implemented in light or dark themes for text and code syntax highlighting and in the distinctive components of the user interface.
 
 Name    | Hex       | RGB           | HSL           | ![Color Picker](assets/eyedropper.png)
 ---     | ---       | ---           | ---           | ---
@@ -27,6 +39,10 @@ Name    | Hex       | RGB           | HSL           | ![Color Picker](assets/eye
 `cat8`  | `988ec8`  | `152 142 200` | `250° 35% 67%`| ![cat8](assets/cat8.png)
 `cat9`  | `9f91b0`  | `159 145 176` | `167° 16% 63%`| ![cat9](assets/cat9.png)
 `cat10` | `846e9b`  | `132 110 155` | `269° 18% 52%`| ![cat10](assets/cat10.png)
+
+### Nyan rainbow
+
+> __Nyan rainbow__ is a very self-descriptive name. It is a palette that has colors outside the purple tones characteristic of _CatLover_, useful to show alerts or for decorative elements, both in dark and light themes.
 
 Name    | Hex       | RGB           | HSL           | ![Color Picker](assets/eyedropper.png)
 ---     | ---       | ---           | ---           | ---
