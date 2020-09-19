@@ -1,5 +1,7 @@
 # CatLover
-🎨 A color palette with peaceful night inspiration
+
+![Banner](assets/banner.png)
+
 
 ## Color Palette
 
