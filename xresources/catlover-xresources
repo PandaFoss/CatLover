@@ -1,0 +1,46 @@
+! Copyright (c) 2020-present Max Ferrer <maxi.fg13@gmail.com>
+
+! Project:    CatLover XResources
+! Repository: https://github.com/PandaFoss/CatLover
+! License:    MIT
+
+#define cat0 #3b2f42
+#define cat1 #4c3b54
+#define cat2 #564360
+#define cat3 #604c6b
+#define cat4 #e2d8e9
+#define cat5 #ebe5f0
+#define cat6 #f0ebf4
+#define cat7 #8f91bd
+#define cat8 #988ec8
+#define cat9 #9f91b0
+#define cat10 #846e9b
+#define cat11 #f47c7c
+#define cat12 #fcb997
+#define cat13 #f7f48b
+#define cat14 #a1de93
+#define cat15 #70a1d7
+
+*.foreground:   cat4
+*.background:   cat0
+*.cursorColor:  cat4
+*fading: 35
+*fadeColor: cat3
+
+*.color0: cat1
+*.color1: cat11
+*.color2: cat14
+*.color3: cat13
+*.color4: cat9
+*.color5: cat15
+*.color6: cat8
+*.color7: cat5
+*.color8: cat3
+*.color9: cat11
+*.color10: cat14
+*.color11: cat13
+*.color12: cat9
+*.color13: cat15
+*.color14: cat7
+*.color15: cat6
+
