@@ -4,12 +4,6 @@
 
 > A _prrrfect_ combination of pastel colors for all your things!
 
-## Content
-- [Color Palette](#color-palette)
-- [Specification](#specification)
-- [Credits](#credits)
-- [License](#license)
-
 ## Color Palette
 
 Name    | Hex       | RGB           | HSL           | ![Color Picker](assets/eyedropper.png)
@@ -38,8 +32,8 @@ Name    | Hex       | RGB           | HSL           | ![Color Picker](assets/eye
 - CatLover is strongly inspired by [Nord Theme](https://www.nordtheme.com) (created by [Arctic Ice Studio](https://www.arcticicestudio.com/) and [Sven Greb](https://www.svengreb.de/)) and [Dracula Theme](https://draculatheme.com/) (created by [Zeno Rocha](https://github.com/zenorocha)).
 - Some design vectors were made using templates from [Freepik.com](https://www.freepik.com).
 
-## License
+<p align="center"><img src="assets/separator.png"></img></p>
 
-CatLover is distributed primarily under the terms of the MIT license.
+<p align="center">Copyright &copy; 2020 <a href="https://github.com/PandaFoss" target="_blank">Max Ferrer</a></p>
 
-See [LICENSE](LICENSE) for details.
+<p align="center"><a src="LICENSE"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=MIT&logoColor=f0ebf4&logo=github&colorA=604c6b&colorB=988ec8"/></a></p>
