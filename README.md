@@ -4,6 +4,8 @@
 
 > A _prrrfect_ combination of pastel colors for all your things!
 
+### Disclaimer: CatLover is in an early stage of development. This document may change at any time without notice.
+
 ## Color Palette
 
 Name    | Hex       | RGB           | HSL           | ![Color Picker](assets/eyedropper.png)
