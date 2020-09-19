@@ -1,7 +1,14 @@
 # CatLover
 
-![Banner](assets/banner.png)
+<p align="center"><img src="assets/banner.png" height="350px"></img></p>
 
+> A _prrrfect_ combination of pastel colors for all your things!
+
+## Content
+- [Color Palette](#color-palette)
+- [Specification](#specification)
+- [Credits](#credits)
+- [License](#license)
 
 ## Color Palette
 
@@ -23,3 +30,16 @@ Name    | Hex       | RGB           | HSL           | ![Color Picker](assets/eye
 `cat13` | `f7f48b`  | `247 244 139` | `58° 87% 76%` | ![cat13](assets/cat13.png)
 `cat14` | `a1de93`  | `161 222 147` | `109° 53% 72%`| ![cat14](assets/cat14.png)
 `cat15` | `70a1d7`  | `112 161 215` | `211° 56% 64%`| ![cat15](assets/cat15.png)
+
+## Specification
+
+## Credits
+
+- CatLover is strongly inspired by [Nord Theme](https://www.nordtheme.com) (created by [Arctic Ice Studio](https://www.arcticicestudio.com/) and [Sven Greb](https://www.svengreb.de/)) and [Dracula Theme](https://draculatheme.com/) (created by [Zeno Rocha](https://github.com/zenorocha)).
+- Some design vectors were made using templates from [Freepik.com](https://www.freepik.com).
+
+## License
+
+CatLover is distributed primarily under the terms of the MIT license.
+
+See [LICENSE](LICENSE) for details.
