@@ -1,4 +1,4 @@
-<p align="center"><img src="../assets/logo-xresources.png"></img></p>
+<p align="center"><img height="200px" src="../assets/logo-xresources.png"></img></p>
 
 <p align="center">XResources file based on the CatLover color scheme.</p>
 
