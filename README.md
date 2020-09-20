@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.png" height="350px"></img></p>
+<p align="center"><img src="assets/banner.png" height="200px"></img></p>
 
 > A _prrrfect_ combination of pastel colors for all your things!
 
