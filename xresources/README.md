@@ -10,4 +10,4 @@ ___
 
 ## Installation
 
-Replace the colors in your `$HOME/.Xresources` file with those of `catlover-xresorces`.
+Replace the colors in your [`$HOME/.Xresources`](https://wiki.archlinux.org/index.php/X_resources) file with those of [`catlover-xresources`](catlover-xresources).
