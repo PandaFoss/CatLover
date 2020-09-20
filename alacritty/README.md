@@ -10,4 +10,4 @@ ___
 
 ## Installation
 
-Replace the color definitions in your `alacritty.yml` settings file with those in the `catlover-alacritty` file.
+Replace the color definitions in your [`alacritty.yml`](https://github.com/alacritty/alacritty) settings file with those in the [`catlover-alacritty`](catlover-alacritty) file.
